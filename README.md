@@ -1,1 +1,1 @@
-News Blog Website in NextJs for client
+News Blog Website in NextJs for client side
