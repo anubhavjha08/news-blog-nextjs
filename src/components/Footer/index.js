@@ -85,8 +85,7 @@ const Footer = () => {
         </span>
        
         <div className="text-center">
-          Made with &hearts; by Anisha
-        </div>
+          Made with &hearts; by Anubhav Jha
       </div>
     </footer>
   );
